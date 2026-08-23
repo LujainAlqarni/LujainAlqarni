@@ -2,7 +2,7 @@
 
 # Lujain Alqarni 👋
 
-### Computer Science Graduate · Software Developer · AI Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+into+Real+Solutions)](https://git.io/typing-svg)
 
 <br>
 
@@ -16,7 +16,7 @@
 
 </div>
 
----
+
 
 ## 👩🏻‍💻 About Me
 
@@ -26,7 +26,7 @@ I enjoy turning ideas into real applications, solving problems through technolog
 
 > ✦ **Build. Learn. Solve. Repeat.**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -78,7 +78,7 @@ I enjoy turning ideas into real applications, solving problems through technolog
   <img src="https://img.shields.io/badge/Visual_Studio-A78BFA?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
----
+
 
 ## 🎯 Interests
 
@@ -90,7 +90,7 @@ I enjoy turning ideas into real applications, solving problems through technolog
 
 </p>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -99,23 +99,18 @@ I enjoy turning ideas into real applications, solving problems through technolog
 - Computer Vision
 - Building scalable and reliable applications
 
----
+
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LujainAlqarni&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=8B5CF6&count_private=true" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LujainAlqarni&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="330" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=LujainAlqarni&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=8B5CF6" width="500" />
 
 </div>
 
----
+
 
 <div align="center">
 
