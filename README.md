@@ -6,13 +6,6 @@
 
 <br>
 
-<a href="https://sa.linkedin.com/in/lujain-alqarni-63a118287">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/LujainAlqarni">
-  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -105,10 +98,18 @@ I enjoy turning ideas into real applications, solving problems through technolog
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com/?user=LujainAlqarni&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=C4B5FD&sideNums=C4B5FD&dates=8B5CF6" width="500" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
+
 
 
 
@@ -120,9 +121,10 @@ I enjoy turning ideas into real applications, solving problems through technolog
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/LujainAlqarni">
-  <img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white" />
+<a href="mailto:lujaindq7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+
 
 <br><br>
 
@@ -130,8 +132,4 @@ I enjoy turning ideas into real applications, solving problems through technolog
 
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/LujainAlqarni/LujainAlqarni/output/github-contribution-grid-snake.svg">
-</picture>
+
